@@ -1,4 +1,4 @@
-# DA231-Big-Data-Mini-Project
+#Big-Data-Mini-Project
 
 This prject is organized in 3 notebooks,
 
@@ -30,5 +30,6 @@ To run the analysis, below things must be ensured
         
 3. Please ensure spark setup is properly done and run to obtain all the results sucessfully
         
-        
+  
+As part of course  DA231 in Indian Institute of Science
 
